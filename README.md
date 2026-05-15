@@ -1,16 +1,19 @@
-## Hi there 👋
+# Lakshya Bhatnagar
 
-<!--
-**lakshyabhatnagar/lakshyabhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | ML Engineer | Full Stack Developer
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://lakshyabhatnagar.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • TensorFlow • PyTorch • React • Node.js • Flask
+
+## Current Focus
+- Generative AI
+- LLM Applications
+- Backend Systems
+- Machine Learning Deployment
+
+## Featured Projects
+- AI/ML Projects
+- Full Stack Applications
+- GenAI Systems
