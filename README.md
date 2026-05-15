@@ -1,8 +1,7 @@
 # Lakshya Bhatnagar
 
 AI Engineer | ML Engineer | Full Stack Developer
-
-🌐 Portfolio: https://lakshyabhatnagar.vercel.app/
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://lakshyabhatnagar.vercel.app/)
 
 ## Tech Stack
 Python • TensorFlow • PyTorch • React • Node.js • Flask
